@@ -10,6 +10,16 @@ header .logo {
     height: 100%;
 }
 
+#api_status {
+    height: 40px;
+    width: 40px;
+    border-radius: 40px;
+    background-color: #cccccc;
+    float: right;
+    margin-right: 35px;
+    margin-top: 15px;
+}
+
 .available {
     background-color: #ff545f;
 }
